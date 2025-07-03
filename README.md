@@ -20,7 +20,7 @@ runApp("PATH_TO_DIRECTORY/sdRgraph-shiny-alpha")
 ![](./images/sdRgraph-shiny-alpha.png)  
 (Note: The data matrix field has to be edited so that the contents are consistent with entered values of the number of scale levels (default of `nx=5`) and descriptors (default of `ny = 7`).  Please see the function description of [`sdRplot.R`](./sdRplot.R) for more details.)
 
-(**Acknowledgements:** [OpenAI's ChatGPT](https://chatgpt.com/) was used to write the codes for this shiny app based on the codes for [`sdRplot.R`](./sdRplot).  Please access the public ChatGPT session at [URL](https://chatgpt.com/share/68662781-1afc-8002-b2a4-797d0450d084) for more info.)
+(**Acknowledgements:** [OpenAI's ChatGPT](https://chatgpt.com/) was used to write the codes for this shiny app based on the codes for [`sdRplot.R`](./sdRplot).  Please access the public ChatGPT session at: [URL](https://chatgpt.com/share/68662781-1afc-8002-b2a4-797d0450d084), for more info.)
 
 
 ---
