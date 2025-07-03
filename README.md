@@ -7,7 +7,7 @@ An [**R**](https://cran.r-project.org/) [`shiny`](https://shiny.posit.co/) app t
 
 
 This directory includes the [`ui.R`](./ui.R)  and [`server.R`](./server.R) files for the `shiny` app. (Note: Only these two file are strictly needed to run the shiny app.  However, you may have to edit some of the graphing parameters in `server.R`, as the need arises, to get better quality plots.)  
-To run this app, at the Linux command line:
+To run this app, at the `R` command line (at a Linux terminal `R` session or in an [`rstudio`](https://posit.co/downloads/) `R` session):
 
 ```R
 library(shiny)
