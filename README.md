@@ -18,7 +18,7 @@ runApp("PATH_TO_DIRECTORY/sdRgraph-shiny-alpha")
 `R` then displays a `localhost` URL at which the app is running, e.g., `http://localhost:4317`.  If you are using [`rstudio`](https://posit.co/downloads/), then an internal `R` browser may automatically open;  this internal browser allows one to open the app in an external browser with a click on `Open in Browser`.  
 
 ![](./images/sdRgraph-shiny-alpha.png)  
-(Note: The data matrix filed has to be edited so that the contents are consistent with entered values of the number of scale levels (default of `nx=5`) and descriptors (default of `ny = 7`).  Please see the function description of [`sdRplot.R`](./sdRplot.R) for more details.)
+(Note: The data matrix field has to be edited so that the contents are consistent with entered values of the number of scale levels (default of `nx=5`) and descriptors (default of `ny = 7`).  Please see the function description of [`sdRplot.R`](./sdRplot.R) for more details.)
 
 (**Acknowledgements:** [OpenAI's ChatGPT](https://chatgpt.com/) was used to write the codes for this shiny app based on the codes for [`sdRplot.R`](./sdRplot).  Please access the public ChatGPT session at [URL](https://chatgpt.com/share/68662781-1afc-8002-b2a4-797d0450d084) for more info.)
 
