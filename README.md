@@ -18,9 +18,20 @@ runApp("PATH_TO_DIRECTORY/sdRgraph-shiny-alpha")
 `R` then displays a `localhost` URL at which the app is running, e.g., `http://localhost:4317`.  If you are using [`rstudio`](https://posit.co/downloads/), then an internal `R` browser may automatically open;  this internal browser allows one to open the app in an external browser with a click on `Open in Browser`.  
 
 ![](./images/sdRgraph-shiny-alpha.png)  
-(Note: The data matrix field has to be edited so that the contents are consistent with entered values for the number of scale levels (default of `nx=5`) and descriptors (default of `ny = 7`).  Please see the function description of [`sdRplot.R`](./sdRplot.R) for more details.)
+**Notes:** 
 
-(**Acknowledgements:** [OpenAI's ChatGPT](https://chatgpt.com/) was used to write the codes for this shiny app based on the codes for [`sdRplot.R`](./sdRplot).  Please access the public ChatGPT session at: [URL](https://chatgpt.com/share/68662781-1afc-8002-b2a4-797d0450d084), for more info.)
+* The data matrix field has to be edited so that the contents are consistent with entered values for the number of scale levels (default of `nx=5`) and descriptors (default of `ny = 7`).  Please see the function description of [`sdRplot.R`](./sdRplot.R) for more details.)
+* A similar `shiny app` is hosted in the [Posit Connect Cloud](https://connect.posit.cloud/) at: [URL](https://connect.posit.cloud/juro/content/0197d30e-597e-9d51-9fe2-97777081acb6).
+
+
+---
+#### Acknowledgements 
+Many thanks!
+
+* [**R**](https://cran.r-project.org/) for the software.
+* [GitHub](https://hithub.com/) for hosting the project.
+* [OpenAI](https://openai.com/): [ChatGPT](https://chatgpt.com/) was used to write the codes for this shiny app based on the codes for [`sdRplot.R`](./sdRplot).  Please access the public ChatGPT session at: [URL](https://chatgpt.com/share/68662781-1afc-8002-b2a4-797d0450d084), for more info. 
+* [Posit Connect Cloud](https://connect.posit.cloud/) for hosting the app.
 
 
 ---
